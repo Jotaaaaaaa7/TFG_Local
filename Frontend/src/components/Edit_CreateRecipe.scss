@@ -1,0 +1,99 @@
+//* variables de colores
+$color1: #022B3a;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos para las páginas de crear y actualizar recetas
+.container {
+  color: $color1;
+}
+
+.form-group {
+  background-color: $color3;
+  color: $color1;
+}
+
+.button {
+  background-color: $color2;
+  color: $color5;
+}
+
+.alert {
+  background-color: $color1;
+  color: $color5;
+}
+
+.table {
+  color: $color1;
+  border: 1px solid $color2;
+  text-align: center;
+  th {
+    background-color: $color1;
+    color: $color5;
+
+    &.columna_nombre {
+      width: 15%;
+    }
+    &.columna_cantidad {
+      width: 16%;
+    }
+  }
+
+  td {
+    background-color: $color4;
+  }
+}
+
+.MacrosTot {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  background-color: $color3;
+  background: linear-gradient(to bottom, $color3, darken($color3, 8%));
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  p {
+    margin: 0;
+    font-size: large;
+
+    strong {
+      font-weight: bold;
+    }
+  }
+}
+
+.foto-container > img {
+  width: 18rem;
+  height: 18rem;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.espacio-vertical {
+  margin-bottom: 15px;
+}
+
+h4 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+#volverBtn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}

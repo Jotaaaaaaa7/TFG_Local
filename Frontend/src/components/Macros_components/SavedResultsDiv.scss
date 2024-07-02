@@ -1,0 +1,31 @@
+//* variables de colores
+$color1: #022B3A;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos del div de resultados guardados
+#savedResults {
+  background-color: $color3;
+  border-radius: 5px;
+  padding: 20px;
+  color: $color1;
+  border: 1px solid $color2;
+
+  p {
+    color: $color1;
+    font-weight: bold;
+  }
+
+  .list-group-item {
+    background-color: $color5;
+    color: $color1;
+    border: 1px solid $color2;
+
+    &:hover {
+      background-color: $color5;
+      color: $color1;
+    }
+  }
+}

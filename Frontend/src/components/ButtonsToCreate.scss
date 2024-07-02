@@ -1,0 +1,40 @@
+//* Variables de colores
+$color1: #022B3A;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos de los botones para crear dietas, recetas y rutinas
+.ButtonToCreate {
+  background-color: $color2;
+  color: $color5;
+  border: 1px solid $color1;
+  padding: 15px 30px;
+  font-size: 18px;
+  display: block;
+  margin: auto;
+  width: 30%;
+  margin-bottom: 30px;
+    &:hover {
+      background-color: darken($color2, 10%);
+    }
+  }
+  .modal-content {
+    background-color: $color4;
+    color: $color1;
+    .btn-secondary {
+      color: $color5;
+      border: 1px solid $color2;
+      &:hover {
+        background-color: darken($color1, 10%);
+      }
+    }
+    .btn-primary {
+      color: $color5;
+      border: 1px solid $color1;
+      &:hover {
+        background-color: darken($color2, 10%);
+      }
+    }
+  }

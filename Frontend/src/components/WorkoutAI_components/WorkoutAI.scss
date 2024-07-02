@@ -1,0 +1,41 @@
+$color1: #022B3A;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+#WorkoutGen {
+  background-color: $color4;
+  color: $color1;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#WorkoutForm {
+  background-color: $color3;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#WorkoutResult {
+  background-color: $color5;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: $color2;
+  color: $color5;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  &:hover {
+    background-color: $color3;
+    color: $color1;
+  }
+}
+
+select {
+  background-color: $color5;
+  color: $color1;
+}

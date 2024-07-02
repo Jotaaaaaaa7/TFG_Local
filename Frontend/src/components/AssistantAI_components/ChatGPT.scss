@@ -1,0 +1,12 @@
+
+//* Estilos para el chatbot
+.ChatBot {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .user {
+        text-align: right;
+    }
+}

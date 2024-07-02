@@ -1,0 +1,76 @@
+//* Variables de colores
+$color1: #022B3a;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos para el formulario de log-in / sign-up
+.form {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 160px;
+  padding: 20px;
+  background-color: $color2;
+  background: linear-gradient(120deg, $color3 0%, $color3 100%);  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.tab-group {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+  display: flex;
+  justify-content: space-around;
+
+  .tab {
+    font-size: 18px;
+    color: $color1;
+
+    &.active {
+      color: $color2;
+      font-weight: bold;
+    }
+  }
+}
+
+.field-wrap {
+  margin-bottom: 20px;
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: $color1;
+  }
+
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid $color3;
+    border-radius: 4px;
+    font-size: 14px;
+    color: $color1;
+  }
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: $color2;
+  color: $color5;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $color1;
+  }
+}

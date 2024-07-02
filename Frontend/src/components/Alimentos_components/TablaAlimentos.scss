@@ -1,0 +1,31 @@
+
+//* Variables de colores
+$color1: #022B3A;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos de la tabla de alimentos
+.TablaAlimentos {
+  color: $color1;
+  border: 1px solid $color2;
+  text-align: center;
+
+  th {
+    background-color: $color1;
+    color: $color5;
+  }
+
+  td {
+    background-color: $color4;
+  }
+
+  .btn-success {
+    border-color: $color1;
+  }
+
+  .btn-danger {
+    border-color: $color2;
+  }
+}

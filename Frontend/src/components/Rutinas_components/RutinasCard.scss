@@ -1,0 +1,198 @@
+//* Variables de colores
+$color1: #022B3A;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos de la tarjeta de rutinas
+.Card {
+  margin: 50px 300px 100px 300px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba($color1, 0.15);
+  transition: transform 0.3s ease-in-out;
+  
+  &:hover {
+    transform: scale(1.02);
+  }
+  
+  .Card-Header {
+    background-color: $color1;
+    color: $color5;
+    padding: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .Card-Body {
+    padding: 20px;
+    background-color: $color3;
+    color: $color1;
+    font-size: 1.2em;
+    text-align: center;
+    background: linear-gradient(to bottom, $color3, darken($color3, 15%));
+    ;
+
+    #tdNombre {
+      width: 440px;
+      color: $color1;
+      font-weight: bold;
+    }
+
+    .select__control {
+      border-radius: 5px;
+      padding: 5px;
+      width: 440px;
+      border: 1px solid $color1;
+    }
+
+    .select__menu {
+      max-height: none;
+      font-size: 5px;
+      background-color: $color4;
+    }
+
+    .select__option {
+      background-color: $color4;
+      color: $color1;
+      font-size: 16px;
+
+      &:hover {
+        background-color: darken($color4, 10%);
+      }
+    }
+
+    .select__option--is-focused {
+      background-color: $color3;
+    }
+
+    .select__option--is-selected {
+      background-color: darken($color3, 10%);
+    }
+
+    #saveRutinaBtn, #deleteRutinaBtn, #addExerciseBtn {
+      float: left;
+      margin-left: 20px;
+      color: $color5;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out;
+      border: 1px solid $color1;
+
+    }
+
+    .Card-Text {
+      margin-bottom: 10px;
+      font-size: 1.01em;
+      text-align: center;
+      color: $color1;
+    }
+
+    .Ejercicios-Rutina-Table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 18px;
+      text-align: center;
+      border: 1px solid darken($color4, 10%);
+      color: $color1;
+
+      th, td {
+        padding: 10px;
+        vertical-align: middle;
+        background-color: $color4;
+        color: $color1;
+      }
+      th {
+        background-color: $color5;
+
+      }
+
+      td {
+        width: 15%;
+        white-space: nowrap;
+      }
+
+      td:last-child {
+        width: auto;
+        white-space: normal;
+      }
+    }
+  }
+}
+
+.Modal {
+  .modal-dialog {
+    max-width: 800px;
+    margin: 1.75rem auto;
+  }
+
+  .modal-content {
+    background-color: $color4;
+    border: none;
+    border-radius: 0.3rem;
+    box-shadow: 0 0.5rem 1rem rgba($color1, 0.5);
+  }
+
+  .modal-header {
+    border-bottom: none;
+
+    .modal-title {
+      color: $color1;
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+  }
+
+  .modal-body {
+    video {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .modal-footer {
+    border-top: none;
+
+    .btn-secondary {
+      border-color: $color1;
+      color: $color5;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out;
+
+      &:hover {
+        background-color: darken($color1, 10%);
+      }
+    }
+  }
+}
+
+.round-button {
+  border-radius: 50%;
+  padding: 10px;
+  width: 45px;
+  height: 40px;
+  margin: auto;
+  background-color: #1F7A8C;
+  color: #FFFFFF;
+  border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+
+  &:hover {
+    transform: scale(1.2);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  svg {
+    width: 1em;
+    height: 1em;
+  }
+}

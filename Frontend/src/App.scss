@@ -1,0 +1,41 @@
+
+
+// .App {
+//   background-color: aquamarine;
+// }
+
+// // Google Font Import - Poppins
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+.App {
+  transition: margin-left .5s;
+  // otros estilos de tu aplicación...
+  
+}
+.navbar-open {
+  margin-left: 301px; 
+}
+
+.navbar-closed {
+  margin-left: 89px;
+}
+
+
+//* Llevar a otro sitio
+
+.RecipeCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.EjerciciosCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}

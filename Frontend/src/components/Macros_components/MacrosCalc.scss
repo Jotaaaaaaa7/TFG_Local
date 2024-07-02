@@ -1,0 +1,91 @@
+//* Variables de colores
+$primary-color: #717771;
+$secondary-color: #f9f9f9;
+$shadow-color: rgba(0, 0, 0, 0.1);
+$hover-shadow-color: rgba(0, 0, 0, 0.2);
+$interface-color: #bfdbf7;
+
+//* Mixin para estilos de botones
+@mixin button-styles {
+    background-color: $primary-color;
+    color: white;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+
+    &:hover {
+        opacity: 1;
+    }
+
+    &:active {
+        transform: scale(0.98);
+    }
+}
+
+//* Estilos del componente MacrosInterface
+#MacrosInterface {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px $shadow-color;
+    transition: box-shadow 0.3s ease;
+    background-color: $interface-color;
+
+    &:hover {
+        box-shadow: 0px 10px 30px $hover-shadow-color;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+
+        label {
+            font-weight: bold;
+            color: #333;
+            transition: color 0.3s ease;
+
+            &:hover {
+                color: $primary-color;
+            }
+        }
+
+        select,
+        input {
+            width: 100%;
+            padding: 0.5rem;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+
+            &:focus {
+                border-color: $primary-color;
+                outline: none;
+                box-shadow: 0px 0px 5px rgba(113, 119, 113, 0.5);
+            }
+        }
+    }
+
+    #GuardarBtn {
+        @include button-styles;
+        margin-left: 10px;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+
+        &:hover {
+            background-color: darken($primary-color, 10%);
+        }
+    }
+
+    #results {
+        margin-top: 2rem;
+        padding: 1rem;
+        border-radius: 5px;
+        background-color: $secondary-color;
+        box-shadow: 0px 10px 20px lighten($shadow-color, 50%);
+        transition: box-shadow 0.3s ease;
+
+        &:hover {
+            box-shadow: 0px 10px 30px $shadow-color;
+        }
+    }
+}

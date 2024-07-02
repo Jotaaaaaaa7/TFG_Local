@@ -1,0 +1,60 @@
+//* Variables de colores
+$color1: #022B3a;
+$color2: #1F7A8C;
+$color3: #BFDBF7;
+$color4: #E1E5F2;
+$color5: #FFFFFF;
+
+//* Estilos para los formularios que geenran dietas, recetas y entrenamientos con IA
+.form-container {
+  background-color: $color5;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#selectSaved {
+  background-color: $color2;
+  margin-left: 20px;
+  color: $color5;
+}
+
+.Spinner {
+  margin-left: 540px;
+  padding: 50px;
+  color: $color1;
+}
+
+.AI-form {
+  background-color: $color3;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-row {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.select-control {
+  background-color: $color4;
+  color: $color1;
+}
+
+.submit-button {
+  background-color: $color2;
+  color: $color5;
+  &:hover {
+    background-color: darken($color2, 10%);
+  }
+}
+
+.result-container {
+  background-color: $color3;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.result-title {
+  color: $color1;
+}
