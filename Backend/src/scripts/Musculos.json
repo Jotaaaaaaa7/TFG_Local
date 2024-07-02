@@ -1,0 +1,143 @@
+[
+
+  {
+    "nombre": "Pectoral mayor esternal",
+    "grupo": "Pectorales"
+  },
+  {
+    "nombre": "Pectoral mayor clavicular",
+    "grupo": "Pectorales"
+  },
+  {
+    "nombre": "Tríceps braquial",
+    "grupo": "Triceps"
+  },
+  {
+    "nombre": "Recto abdominal",
+    "grupo": "Abdomen"
+  },
+  {
+    "nombre": "Deltoides anterior",
+    "grupo": "Hombros"
+  },
+  {
+    "nombre": "Dorsal ancho",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Infraespinoso",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Redondo mayor",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Redondo menor",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Trapecio fibras inferiores",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Trapecio fibras medias",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Trapecio fibras superiores",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Glúteo mayor",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Erector de la columna",
+    "grupo": "Espalda"
+  },
+  {
+    "nombre": "Isquiotibiales",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Bíceps braquial",
+    "grupo": "Biceps"
+  },
+  {
+    "nombre": "Braquiorradial",
+    "grupo": "Biceps"
+  },
+  {
+    "nombre": "Braquial",
+    "grupo": "Biceps"
+  },
+  {
+    "nombre": "Iliopsoas",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Oblicuos",
+    "grupo": "Abdomen"
+  },
+  {
+    "nombre": "Abductor corto",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Abductor largo",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Abductor mayor",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Glúteo medio",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Pectíneo",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Deltoides anterior",
+    "grupo": "Hombros"
+  },
+  {
+    "nombre": "Deltoides posterior",
+    "grupo": "Hombros"
+  },
+  {
+    "nombre": "Cuádriceps",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Deltoides lateral",
+    "grupo": "Hombros"
+  },
+  {
+    "nombre": "Gastrocnemio",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Sóleo",
+    "grupo": "Piernas"
+  },
+  {
+    "nombre": "Serrato anterior",
+    "grupo": "Hombros"  
+  },
+  {
+    "nombre": "Erector de la columna",
+    "grupo": "Espalda"
+  }
+  
+  
+  
+  
+  
+  
+]
+
+

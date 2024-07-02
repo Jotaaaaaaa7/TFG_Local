@@ -1,0 +1,2696 @@
+[
+  
+  {
+    "nombre": "Press de pecho en máquina",
+    "descripcion": "https://eresfitness.com/press-de-pecho-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/05771205-Lever-Chest-Press_Chest.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+  {
+    "nombre": "Press de pecho declinado en máquina",
+    "descripcion": "https://eresfitness.com/press-de-pecho-declinado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/13001205-Lever-Decline-Chest-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+  {
+    "nombre": "Pullover en máquina",
+    "descripcion": "https://eresfitness.com/pullover-en-maquina/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/22851205-Lever-Pullover-plate-loaded-_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+  {
+    "nombre": "Press inclinado con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-martillo-en-banco-inclinado-con-Mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/03211205-Dumbbell-Incline-Hammer-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco regulable"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+    ]
+  },
+
+  {
+    "nombre": "Press plano con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-martillo-con-Mancuernas-en-banco-plano/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/03401205-Dumbbell-Lying-Hammer-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+
+  {
+    "nombre": "Press declinado alterno con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-de-banca-declinado-alternado-con-Mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/50971205-Dumbbell-Single-Arm-Alternate-Decline-Bench-Press.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco abdominales"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+
+  {
+    "nombre": "Press declinado con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-de-banca-declinado-con-Mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/03011205-Dumbbell-Decline-Bench-Press_Chest-flat-1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco abdominales"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+
+  {
+    "nombre": "Press inclinado con poleas",
+    "descripcion": "https://eresfitness.com/press-de-banca-inclinado-con-poleas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/01691205-Cable-Incline-Bench-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+    ]
+  },
+  {
+    "nombre": "Press banca inclinado con barra",
+    "descripcion": "https://eresfitness.com/press-de-banca-inclinado-con-barra/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/00471205-Barbell-Incline-Bench-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+    ]
+  },
+  {
+    "nombre": "Press banca con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-de-banca-con-Mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/02891205-Dumbbell-Bench-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+  {
+    "nombre": "Press inclinado alterno con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-alternado-inclinado-con-Mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/35451205-Dumbbell-Incline-Alternate-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco regulable"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+    ]
+  },
+  {
+    "nombre": "Press plano alterno con Mancuernas",
+    "descripcion": "https://eresfitness.com/press-alternado-con-Mancuernas-en-banco-plano/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/36951205-Dumbbell-Alternate-Bench-Press-high-start_Chest-.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+  {
+    "nombre": "Flexiones inclinadas",
+    "descripcion": "https://eresfitness.com/flexiones-inclinadas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/51601205-Incline-Close-Grip-Push-Up_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      },
+      {
+        "nombre": "Banco"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+    ]
+  },
+  {
+    "nombre": "Fondos con 2 sillas",
+    "descripcion": "https://eresfitness.com/fondos-con-dos-sillas/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/33871205-Dips-between-Chairs_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      },
+      {
+        "nombre": "Tríceps braquial"
+      }
+    ]
+  },
+  {
+    "nombre": "Fondos con 1 silla",
+    "descripcion": "https://eresfitness.com/fondos-con-una-silla/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/34431205-Dip-on-Floor-with-Chair_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      },
+      {
+        "nombre": "Tríceps braquial"
+      }
+    ]
+  },
+  {
+    "nombre": "Fondos de pecho en máquina",
+    "descripcion": "https://eresfitness.com/fondos-de-pecho-en-maquina-asistida/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/00091205-Assisted-Chest-Dip-kneeling_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      },
+      {
+        "nombre": "Tríceps braquial"
+      }
+    ]
+  },
+  {
+    "nombre": "Flexiones superman",
+    "descripcion": "https://eresfitness.com/flexiones-superman/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/08031205-Superman-Push-up_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      },
+      {
+        "nombre": "Recto abdominal"
+      }
+    ]
+  },
+  {
+    "nombre": "Flexión de brazos contra la pared",
+    "descripcion": "https://eresfitness.com/flexion-de-brazos-contra-la-pared/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/06581205-Push-up-wall-II_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+  
+  {
+    "nombre": "Flexiones con bosu ball",
+    "descripcion": "https://eresfitness.com/flexiones-con-bosu-ball/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/06531205-Push-up-bosu-ball_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      },
+      {
+        "nombre": "Bosu ball"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones con toque de pecho",
+    "descripcion": "https://eresfitness.com/flexiones-con-toque-de-pecho/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/32161205-Chest-Tap-Push-up-male-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones a 1 mano",
+    "descripcion": "https://eresfitness.com/flexiones-a-una-mano/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/07251205-Single-Arm-Push-up_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones abiertas",
+    "descripcion": "https://eresfitness.com/flexiones-abiertas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/13111205-Wide-Hand-Push-up_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Apertura en banco plano con poleas",
+    "descripcion": "https://eresfitness.com/ejercicios/pectorales/page/3/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/01851205-Cable-Lying-Fly_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Squeeze Bench Press",
+    "descripcion": "https://eresfitness.com/squeeze-bench-press/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/36811205-Dumbbell-Squeeze-Bench-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      },
+      {
+        "nombre": "Deltoides anterior"
+      }
+    ]
+  },
+
+  {
+    "nombre": "Squeeze Press inclinado con mancuernas",
+    "descripcion": "https://eresfitness.com/squeeze-press-inclinado-con-mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/50671205-Dumbbell-Incline-Squeeze-Press_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco regulable"
+      }
+  
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+  
+    ]
+  },
+    
+  {
+    "nombre": "Vuelos a 1 mano con mancuerna",
+    "descripcion": "https://eresfitness.com/vuelos-a-una-mano-con-mancuerna/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/41501205-Dumbbell-One-Arm-Low-Fly_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press plano con poleas",
+    "descripcion": "https://eresfitness.com/press-de-banca-plano-con-poleas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/01511205-Cable-Bench-Press_Chest.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Press banca",
+    "descripcion": "https://eresfitness.com/press-de-banca-con-barra/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/04/00251205-Barbell-Bench-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Fondos de pecho",
+    "descripcion": "https://eresfitness.com/fondos-de-pecho/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/04/14301205-Chest-Dip-on-dip-pull-up-cage_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press banca declinado",
+    "descripcion": "https://eresfitness.com/press-declinado-con-barra/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/11/00331205-Barbell-Decline-Bench-Press_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones",
+    "descripcion": "https://eresfitness.com/flexiones-o-lagartijas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/06621205-Push-up-male_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Aperturas con mancuernas",
+    "descripcion": "https://eresfitness.com/apertura-con-mancuernas-en-banco-plano/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/03081205-Dumbbell-Fly_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+
+    ]
+  },
+  {
+    "nombre": "Aperturas inclinadas con mancuernas",
+    "descripcion": "https://eresfitness.com/aperturas-con-mancuernas-en-banco-inclinado/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/07/03191205-Dumbbell-Incline-Fly_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Pullover con mancuerna",
+    "descripcion": "https://eresfitness.com/pullover-con-mancuerna/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/03751205-Dumbbell-Pullover_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Cruces en polea baja",
+    "descripcion": "https://eresfitness.com/cruces-en-polea-baja/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/01791205-Cable-Low-Fly_Chest.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Cruces en polea alta",
+    "descripcion": "https://eresfitness.com/cruces-en-polea-alta-crossover/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/12691205-Cable-Standing-Up-Straight-Crossovers_Chest-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Aperturas en máquina",
+    "descripcion": "https://eresfitness.com/aperturas-en-contractor-de-pecho/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/05/05961205-Lever-Seated-Fly_Chest.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Remos supino con mancuernas",
+    "descripcion": "https://eresfitness.com/wp-content/uploads/2019/07/03191205-Dumbbell-Incline-Fly_Chest-flat.mp4?_=1" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/37991205-Dumbbell-Bent-Over-Reverse-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo supino en polea baja",
+    "descripcion": "https://eresfitness.com/remo-supino-en-polea-baja-de-pie/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/43671205-Cable-Bent-Over-Reverse-Grip-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo gironda con agarre de cuerda",
+    "descripcion": "https://eresfitness.com/remo-sentado-en-polea-con-agarre-en-cuerda/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/13231205-Cable-Rope-Seated-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo en máquina",
+    "descripcion": "https://eresfitness.com/remo-sentado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/13501205-Lever-Seated-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo invertido con agarre supino",
+    "descripcion": "https://eresfitness.com/remo-invertido-agarre-supino/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/12231205-Underhand-Grip-Inverted-Back-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo inclinado con mancuernas",
+    "descripcion": "https://eresfitness.com/remo-en-banco-inclinado-con-mancuernas-agarre-neutro/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/33201205-Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco regulable"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo en polea con agarre supino",
+    "descripcion": "https://eresfitness.com/remo-en-polea-agarre-supino/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/32331205-Cable-Seated-Supine-grip-Row-male_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo sentado en polea con agarre abierto",
+    "descripcion": "https://eresfitness.com/remo-sentado-en-polea-con-agarre-abierto/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/02181205-Cable-Seated-Wide-grip-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo con mancuernas",
+    "descripcion": "https://eresfitness.com/remo-con-mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/02931205-Dumbbell-Bent-Over-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo con barra",
+    "descripcion": "https://eresfitness.com/remo-con-barra-z-agarre-supino/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/13441205-EZ-Bar-Reverse-Grip-Bent-Over-Row_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo con barra landmine",
+    "descripcion": "https://eresfitness.com/remo-con-barra-landmine-agarre-v/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/32001205-Lever-Bent-over-Row-with-V-bar-plate-loaded_Back.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Jalón al pecho tras nuca",
+    "descripcion": "https://eresfitness.com/jalon-al-pecho-tras-nuca/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/02051205-Cable-Rear-Pulldown_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Jalón al pecho a 1 mano con polea",
+    "descripcion": "https://eresfitness.com/jalon-al-pecho-a-una-mano-sentado-con-polea/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/12041205-Cable-one-arm-lat-pulldown_back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "encogimiento de hombros en MP",
+    "descripcion": "https://eresfitness.com/encogimiento-de-hombros-en-maquina-smith-agarre-abierto/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/52231205-Smith-Wide-Shrug_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Trapecio fibras superiores"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Remo con mancuerna UL",
+    "descripcion": "https://eresfitness.com/remo-con-mancuerna-unilateral/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/02921205-Dumbbell-Bent-over-Row_back_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Superman",
+    "descripcion": "https://eresfitness.com/twist-superman/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/40911205-Twist-Superman-male_Hips-flat_1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Erector de la columna"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      },
+      {
+        "nombre": "Oblicuos"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Remo gironda",
+    "descripcion": "https://eresfitness.com/remo-sentado-en-polea-baja/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/02/26611205-Cable-Seated-Row-with-V-bar_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Jalón al pecho",
+    "descripcion": "https://eresfitness.com/jalon-al-pecho-agarre-abierto/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/02/01971205-Cable-Pulldown-pro-lat-bar_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Peso muerto rumano con barra",
+    "descripcion": "https://eresfitness.com/peso-muerto-rumano/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/22131105-Barbell-Romanian-Deadlift-female_Hips-FIX_max.webp",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Erector de la columna"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      },
+      {
+        "nombre": "Isquiotibiales"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Remo en barra T",
+    "descripcion": "https://eresfitness.com/remo-en-barra-t/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/05/06061205-Lever-T-bar-Row-plate-loaded_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Dorsal ancho"
+      },
+      {
+        "nombre": "Infraespinoso"
+      },
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      },
+      {
+        "nombre": "Trapecio fibras inferiores"
+      },
+      {
+        "nombre": "Trapecio fibras medias"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Curl predicador a 1 mano con mancuerna",
+    "descripcion": "https://eresfitness.com/curl-predicador-a-una-mano-con-mancuerna/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/52981205-Dumbbell-Preacher-Curl-Turned-Torso_Upper-Arms-f.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Bíceps braquial"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Curl martillo en polea con cuerda",
+    "descripcion": "https://eresfitness.com/curl-martillo-en-polea-con-cuerda/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/01651205-Cable-Hammer-Curl-with-rope-male_Forearms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Braquiorradial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl de Bíceps sentado en máquina",
+    "descripcion": "https://eresfitness.com/curl-de-biceps-sentado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/43361205-Lever-Biceps-Curl_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Bíceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl con barra",
+    "descripcion": "https://eresfitness.com/curl-con-barra-z/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/04471205-EZ-Barbell-Curl_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Bíceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl en polea",
+    "descripcion": "https://eresfitness.com/curl-a-un-brazo-en-polea/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/01901205-Cable-One-Arm-Curl_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Bíceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl de bíceps en máquina",
+    "descripcion": "https://eresfitness.com/curl-concentrado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/12/18721205-Lever-Preacher-Curl-plate-loaded_Upper-Arms.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl bíceps inclinado con mancuerna",
+    "descripcion": "https://eresfitness.com/curl-biceps-inclinado-con-mancuerna/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/03151205-Dumbbell-Incline-Biceps-Curl_Upper-Arms.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "mancuernas"
+      },
+      {
+        "nombre": "Banco regulable"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Bíceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Bíceps alterno con mancuernas",
+    "descripcion": "https://eresfitness.com/curl-de-biceps/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/04161205-Dumbbell-Standing-Biceps-Curl_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Bíceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Bíceps martillo con mancuernas",
+    "descripcion": "https://eresfitness.com/curl-martillo-con-mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/05/03131205-Dumbbell-Hammer-Curl_Forearms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Braquiorradial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl concentrado con mancuerna",
+    "descripcion": "https://eresfitness.com/curl-concentrado-biceps/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/05/02971205-Dumbbell-Concentration-Curl_Upper-Arms-FIX-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press francés con polea baja",
+    "descripcion": "https://eresfitness.com/press-frances-con-polea-baja/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/52431205-Cable-Lying-Triceps-Extension-Low_Upper-Arms-fla-1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press de copa con mancuerna",
+    "descripcion": "https://eresfitness.com/press-de-copa-con-mancuerna-de-pie/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/04301205-Dumbbell-Standing-Triceps-Extension_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Patada de glúteo",
+    "descripcion": "https://eresfitness.com/patada-de-gluteo-rodilla-flexionada/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/05571205-Kicks-Leg-Bent_Hips.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Glúteo mayor"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Patada tríceps con mancuerna",
+    "descripcion": "https://eresfitness.com/patada-de-triceps-con-mancuerna/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/03541205-Dumbbell-One-Arm-Kickback_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones sobre los antebrazos",
+    "descripcion": "https://eresfitness.com/flexiones-sobre-los-antebrazos/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/14671205-Push-up-on-Forearms_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones Diamante",
+    "descripcion": "https://eresfitness.com/flexiones-diamante/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/02831205-Diamond-Push-up_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Extensión de tríceps sobre la cabeza en polea alta",
+    "descripcion": "https://eresfitness.com/extension-de-triceps-sobre-la-cabeza-con-polea/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/01941205-Cable-Overhead-Triceps-Extension-rope-attachment.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Rompecráneos con mancuernas",
+    "descripcion": "https://eresfitness.com/rompecraneos-con-mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/03511205-Dumbbell-Lying-Triceps-Extension_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      },
+      {
+        "nombre": "Banco"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Extensión de tríceps con polea",
+    "descripcion": "https://eresfitness.com/extensiones-de-triceps-con-agarre-en-v-en-polea/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/02411205-Cable-Triceps-Pushdown-V-bar-attachment_Upper-Ar.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Extensión de tríceps con cuerda",
+    "descripcion": "https://eresfitness.com/extension-de-triceps-a-una-mano-en-polea-agarre-cuerda/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/12271205-Cable-Standing-One-Arm-Tricep-Pushdown-Overhand-G.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Flexiones brazoas cerrados",
+    "descripcion": "https://eresfitness.com/flexiones-de-brazo-cerradas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2021/01/Flexiones-de-relo.webp",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press banca con agarre cerrado",
+    "descripcion": "https://eresfitness.com/press-de-banca-con-agarre-cerrado/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/11/00301205-Barbell-Close-Grip-Bench-Press_Upper-Arms.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Extensión mancuerna tras nuca",
+    "descripcion": "https://eresfitness.com/extension-mancuerna-tras-nuca-con-una-mano/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/11/04231205-Dumbbell-Standing-One-Arm-Extension_Upper-Arms-fla.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Extensión de tríceps tras nuca con mancuerna",
+    "descripcion": "https://eresfitness.com/extension-de-triceps-tras-nuca-con-mancuerna/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/21881205-Dumbbell-Seated-Triceps-Extension_Upper-Arms-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Rueda abdominal",
+    "descripcion": "https://eresfitness.com/rueda-abdominal-de-pie/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/07961205-Standing-Wheel-Rollout_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Rueda abdominal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Iliopsoas"
+      },
+      {
+        "nombre": "Recto abdominal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Plancha lateral",
+    "descripcion": "https://eresfitness.com/plancha-lateral/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/07151205-Side-Plank-m_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Oblicuos"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Plancha",
+    "descripcion": "https://eresfitness.com/plancha-de-rodillas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/32381205-Kneeling-plank-male_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Recto abdominal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Inchworm",
+    "descripcion": "https://eresfitness.com/inchworm/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/14711205-Inchworm_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      },
+      {
+        "nombre": "Recto abdominal"
+      },
+      {
+        "nombre": "Oblicuos"
+      },
+      {
+        "nombre": "Tríceps braquial"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Hollow hold",
+    "descripcion": "https://eresfitness.com/hollow-hold/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/12461205-Hollow-Hold_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Iliopsoas"
+      },
+      {
+        "nombre": "Recto abdominal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Giro ruso con mancuernas",
+    "descripcion": "https://eresfitness.com/giro-ruso-con-mancuerna/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/42491205-Dumbbell-Straight-Leg-Russian-Twist_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Oblicuos"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Crunch en máquina",
+    "descripcion": "https://eresfitness.com/crunch-sentado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/14521205-Lever-Seated-Crunch_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Recto abdominal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Piernas arriba",
+    "descripcion": "https://eresfitness.com/8-leg-crunch/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/40221205-Seated-8-Leg-Crunch_Waist-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Abductor corto"
+      },
+      {
+        "nombre": "Recto abdominal"
+      },
+      {
+        "nombre": "Oblicuos"
+      },
+      {
+        "nombre": "Iliopsoas"
+      },
+      {
+        "nombre": "Abductor largo"
+      },
+      {
+        "nombre": "Abductor mayor"
+      },
+      {
+        "nombre": "Pectíneo"
+      },
+      {
+        "nombre": "Glúteo medio"
+      }
+
+
+
+    ]
+  },
+    
+  {
+    "nombre": "Abdominales",
+    "descripcion": "https://eresfitness.com/abdominales-cruzados/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/02/02621105-Cross-Body-Crunch_waist_max.jpg",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Recto abdominal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Rotación interna de hombro en polea",
+    "descripcion": "https://eresfitness.com/rotacion-interna-de-hombro-en-polea/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/50881205-Cable-Shoulder-Internal-Rotation_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      },
+      {
+        "nombre": "Pectoral mayor clavicular"
+      },
+      {
+        "nombre": "Pectoral mayor esternal"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Rotación externa de hombro en polea",
+    "descripcion": "https://eresfitness.com/rotacion-externa-de-hombro-en-polea/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/02351205-Cable-Standing-Shoulder-External-Rotation_Back-fla.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides posterior"
+      },
+      {
+        "nombre": "Redondo menor"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Rotación externa de hombro con mancuerna",
+    "descripcion": "https://eresfitness.com/rotacion-externa-de-hombro-con-mancuerna/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/36841205-Dumbbell-External-Rotation_Back-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Redondo mayor"
+      },
+      {
+        "nombre": "Redondo menor"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Remo de deltoides posterior con mancuerna",
+    "descripcion": "https://eresfitness.com/remo-de-deltoides-posterior-con-mancuerna/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/03771205-Dumbbell-Rear-Delt-Row_shoulder-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides posterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press militar con barra",
+    "descripcion": "https://eresfitness.com/press-militar-de-pie-en-maquina-smith/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/07741205-Smith-Standing-Military-Press_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press de hombro alterno con mancuernas",
+    "descripcion": "https://eresfitness.com/press-de-hombros-alternado-con-mancuernas-sentado/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/03881205-Dumbbell-Seated-Alternate-Press_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Clean and jerk con pesa rusa",
+    "descripcion": "https://eresfitness.com/clean-and-jerk-a-una-mano-con-pesa-rusa/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/05371205-Kettlebell-One-Arm-Clean-and-Jerk_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Abductor mayor"
+      },
+      {
+        "nombre": "Bíceps braquial"
+      },
+      {
+        "nombre": "Braquial"
+      },
+      {
+        "nombre": "Braquiorradial"
+      },
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Deltoides anterior"
+      },
+      {
+        "nombre": "Deltoides lateral"
+      },
+      {
+        "nombre": "Gastrocnemio"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      },
+      {
+        "nombre": "Isquiotibiales"
+      },
+      {
+        "nombre": "Serrato anterior"
+      },
+      {
+        "nombre": "Sóleo"
+      },
+      {
+        "nombre": "Tríceps braquial"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Remo a la cara con cuerda en polea alta",
+    "descripcion": "https://eresfitness.com/remo-a-la-cara-con-cuerda-en-polea-alta/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2021/01/02331105-Cable-Standing-Rear-Delt-Row-with-rope_shoulder_max.jpg",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides posterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Elevaciones laterales en máquina",
+    "descripcion": "https://eresfitness.com/elevaciones-laterales-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2021/01/05841205-Lever-Lateral-Raise_shoulder-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides lateral"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Aperturas invertidas en máquina",
+    "descripcion": "https://eresfitness.com/aperturas-invertidas-en-maquina/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/12/06021205-Lever-Seated-Reverse-Fly_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides posterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press de hombros en máquina",
+    "descripcion": "https://eresfitness.com/press-de-hombros-en-maquina/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/12/14541205-Lever-Seated-Shoulder-Press_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press cubano con mancuernas",
+    "descripcion": "https://eresfitness.com/press-cubano/" ,
+    "nivel": "Avanzado",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/11/21361205-Dumbbell-Cuban-Press-version-2_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides lateral"
+      },
+      {
+        "nombre": "Deltoides posterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Elevaciones posteriores con mancuernas",
+    "descripcion": "https://eresfitness.com/elevaciones-posteriores-con-mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/Elevaciones-posteriores-con-mancuernas.jpg.webp",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides posterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Elevaciones laterales",
+    "descripcion": "https://eresfitness.com/elevaciones-laterales-con-mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/03341205-Dumbbell-Lateral-Raise_shoulder-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides lateral"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Elevaciones frontales con mancuernas",
+    "descripcion": "https://eresfitness.com/elevacion-frontal-con-mancuernas/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/03101205-Dumbbell-Front-Raise_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Press militar con mancuernas",
+    "descripcion": "https://eresfitness.com/press-militar-con-mancuernas-o-barra/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/05/04051205-Dumbbell-Seated-Shoulder-Press_Shoulders-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Mancuernas"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Deltoides anterior"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Sentadilla sumo",
+    "descripcion": "https://eresfitness.com/sentadilla-sumo-sin-equipo/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/44171205-Sumo-Squat-Floor-Touch_Hips-flat_1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Sentadilla MP",
+    "descripcion": "https://eresfitness.com/sentadilla-sumo-en-maquina-smith/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/31421205-Smith-Sumo-Squat_Hips-flat_1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Sentadilla con barra landmine",
+    "descripcion": "https://eresfitness.com/sentadilla-sumo-con-barra-landmine/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/40901205-Landmine-Sumo-Squat-male_Hips-flat_1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Zancadas",
+    "descripcion": "https://eresfitness.com/estocada-con-mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/03361205-Dumbbell-Lunge_Hips-flat_1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Sentadilla silla MP",
+    "descripcion": "https://eresfitness.com/sentadilla-silla-en-maquina-smith/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/07501205-Smith-Chair-Squat_Thighs-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Prensa horizontal",
+    "descripcion": "https://eresfitness.com/press-de-pierna-horizontal-sentado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/22671205-Lever-Seated-Leg-Press_Thighs.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Extensión de cuádriceps en máquina",
+    "descripcion": "https://eresfitness.com/extension-de-piernas-en-maquina/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/05851205-Lever-Leg-Extension_Thighs-FIX-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Step Up",
+    "descripcion": "https://eresfitness.com/step-up-con-mancuernas/" ,
+    "nivel": "Intermedio",
+    "video": "https://eresfitness.com/wp-content/uploads/04311205-Dumbbell-Step-up_Hips-flat_1.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Peso corporal"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Prensa desde abajo",
+    "descripcion": "https://eresfitness.com/press-de-pierna/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/12/07391205Sled45legpress-Hipsflat-1-e.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Sentadilla Hack squat",
+    "descripcion": "https://eresfitness.com/sentadilla-hack-squat/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/12/41001205-Sled-Wide-Hack-Squat-male_Thighs-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "peso muestro con barra",
+    "descripcion": "https://eresfitness.com/peso-muerto-con-barra/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2020/02/00321105-Barbell-Deadlift_Hips-FIX_max.png",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Cuádriceps"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Peso muerto rumano",
+    "descripcion": "https://eresfitness.com/peso-muerto-rumano/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/22131105-Barbell-Romanian-Deadlift-female_Hips-FIX_max.webp",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Erector de la columna"
+      },
+      {
+        "nombre": "Glúteo mayor"
+      },
+      {
+        "nombre": "Isquiotibiales"
+      }
+    ]
+  },
+    
+  {
+    "nombre": "Curl femoral sentado",
+    "descripcion": "https://eresfitness.com/curl-femoral-sentado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/05991205-Lever-Seated-Leg-Curl_Thighs.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Isquiotibiales"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Curl femoral tumbado",
+    "descripcion": "https://eresfitness.com/curl-femoral-acostado-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/09/05861205-Lever-Lying-Leg-Curl_Thighs-flat.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Isquiotibiales"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Patada glúteo en polea baja",
+    "descripcion": "https://eresfitness.com/patada-de-gluteo-en-polea-baja/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/2019/06/Patada-de-gl%C3%BAteo-en-polea-baja.jpg.webp",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Glúteo mayor"
+      }
+
+    ]
+  },
+    
+  {
+    "nombre": "Abductores en máquina",
+    "descripcion": "https://eresfitness.com/aductores-en-maquina/" ,
+    "nivel": "Principiante",
+    "video": "https://eresfitness.com/wp-content/uploads/05981205-Lever-Seated-Hip-Adduction_Thighs.mp4?_=1",
+    "equipo": [
+      {
+        "nombre": "Gym"
+      }
+
+    ],
+    "musculos": [
+      {
+        "nombre": "Abductor corto"
+      },
+      {
+        "nombre": "Abductor largo"
+      },
+      {
+        "nombre": "Abductor mayor"
+      },
+      {
+        "nombre": "Pectíneo"
+      }
+
+    ]
+  }
+  
+  
+]

@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "API REST using Express and Sequelize to connect to a MySQL database",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "API",
+    "Express",
+    "Sequelize",
+    "MySQL"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.3.0",
+    "mysql2": "^2.3.0",
+    "nodemon": "^3.1.0",
+    "openai": "^4.52.0",
+    "sequelize": "^6.6.2"
+  }
+}
