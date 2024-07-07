@@ -4,7 +4,7 @@ const openai = require('openai');
 const router = express.Router();
 
 //* API Key, no se podía subir a Github por seguridad
-const { OPENAI_APIKEY } = require('./apiKey');
+const { OPENAI_APIKEY } = require('./apikey');
 
 const openaiInstance = new openai.OpenAI({
   apiKey: OPENAI_APIKEY,
